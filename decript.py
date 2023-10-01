@@ -32,3 +32,22 @@ mensagem_criptografada = rc4_encrypt(mensagem, chave)
 
 # Imprime a mensagem criptografada
 print("Mensagem criptografada: ", mensagem_criptografada)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#passowrdmain
